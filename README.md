@@ -1,9 +1,9 @@
 hello-world
 ===========
 
-Nina Lee Bissett. 
+Nina Lee Bissett
 
-University of Georgia 
+University of Georgia | Athens, Georgia (There's a saying in Georgia: 'If you lead a good life and say your prayers, when you die you'll go to Athens. I like to think it's true.)
 
 Management Information Systems | Bachelor of Business Administration
 
